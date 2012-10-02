@@ -18,11 +18,11 @@ This will dump the required .ele and .node files to the current working director
 These files are suitable for loading into GEANT4 with CADMesh as individual assemblies of tetrahedra with each assembly having unique material properties.
 The outputted files combined.1\_-1\_.\* describe the outer sphere in this case,
 
-[Outer Sphere](christopherpoole.github.com/tetnest/example/outer.png)
+![Outer Sphere](https://raw.github.com/christopherpoole/tetnest/master/example/outer.png)
 
 and the files combined.1\_-1\_0\_.\* describe the outer shell or surface of the sphere.
 
-[Inner Sphere](christopherpoole.github.com/tetnest/example/inner.png)
+![Inner Sphere](https://raw.github.com/christopherpoole/tetnest/master/example/inner.png)
 
 Requirements
 ------------
