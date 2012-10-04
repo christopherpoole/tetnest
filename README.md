@@ -16,11 +16,11 @@ Usage
 
 This will dump the required .ele and .node files to the current working directory (in this case ./tetnest/mesh).
 These files are suitable for loading into GEANT4 with CADMesh as individual assemblies of tetrahedra with each assembly having unique material properties.
-The outputted files combined.1\_-1\_.\* describe the outer shell (for this example):
+The outputted files combined.1\_0\_.\* describe the outer shell (for this example):
 
 ![Outer Sphere](https://raw.github.com/christopherpoole/tetnest/master/example/outer.png)
 
-and the files combined.1\_-1\_0\_.\* describe the inner sphere:
+and the files combined.1\_-1\_-1\_.\* describe the inner sphere:
 
 ![Inner Sphere](https://raw.github.com/christopherpoole/tetnest/master/example/inner.png)
 
